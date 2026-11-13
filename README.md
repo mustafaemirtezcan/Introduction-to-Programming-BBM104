@@ -1,8 +1,8 @@
-# 🧑‍💻Introduction to Programming - BBM104
+# Introduction to Programming - BBM104
 
-Object-oriented programming in Java. Every folder has the assignment PDF, sample input/output and the source code under `src/`.
+Object-oriented programming assignments in Java. Each folder contains the assignment description, sample input/output files and the source code.
 
-- **A1 - Gym Meal Machine:** a vending machine that loads products into slots and sells by slot number or by carb, protein, fat or calorie value.
-- **A2 - Bus Reservation System:** standard, premium and minibus types built on inheritance, with seat booking and refunds.
-- **A3 - HU-Load Game:** a JavaFX drilling game where you dig underground, collect valuables and watch your fuel. Extract `assets.zip` before running.
-- **A4 - Map Analyzer:** finds the fastest route between two points and a "barely connected" version of the road map, then compares the two.
+- **Gym Meal Machine:** Vending machine that sells by slot number or by nutritional value.
+- **Bus Reservation System:** Seat booking and refunds for several bus types, built on inheritance.
+- **HU-Load Game:** JavaFX drilling game. Extract `assets.zip` before running.
+- **Map Analyzer:** Fastest-route search and a reduced, barely connected version of a road network.
